@@ -1,0 +1,2 @@
+# SI_RegPagi_22166030_Latihan29_WarnaKepribadian
+Pembuatan program melihat kepribadian seseorang dari warna
